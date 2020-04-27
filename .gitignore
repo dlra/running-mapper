@@ -1,0 +1,10 @@
+packages
+.vs
+
+bin
+obj
+
+RunningMapper.Web/Content/*.map
+RunningMapper.Web/Content/*.min*
+RunningMapper.Web/Scripts/*.min*
+RunningMapper.Web/Scripts/*.slim*
